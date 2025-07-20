@@ -151,4 +151,4 @@ that num_of_rooms * x1 + area * x2 = home price prediction
 
 > 💡 **Tip:** This project is great for learning linear regression internals, understanding how gradient descent works, and seeing how core math applies to real problems.
 
-Made with ❤️ by [Yousef Yousefian]
+Made with ❤️ by Yousef Yousefian
