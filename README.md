@@ -13,10 +13,10 @@ This model cannot be very accurate in predicting house prices because it is a si
 
 ---
 ### 📁 Dataset
-Each entry in the dataset is structured as `[x1, x2, y]`, where:
-- `x1`: number of rooms 🏠
-- `x2`: area in m² 📐
-- `y`: house price 💰
+<p>
+    <img src="assets/data.png" width="400" alt="dataset" />
+<p/>
+
 
 ```python
 # Sample data
